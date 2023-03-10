@@ -6,16 +6,18 @@ It is based on a repository of empty test cases and empty function definitions c
 
 ## Getting started
 
-# Clone this repository
+### Clone this repository
 - Create a fork of this repo.
 - Clone your copy of the repo using the command: `git clone git@github.com:*your-github-username*/diy-kata-3.git`.
 
-# Install the project dependencies
+### Install the project dependencies
 
 Use the command `npm install` to install the necessary libraries required for Node.js to run.
 
-# Run the test code 
+### Run the test code 
 
-Run the test for each function following this format: ``npm test -- functionName`.
+Run the test for each function following this format: `npm test -- functionName`.
+
+Authors: Camilla Priest-Stephens and CommandShiftHQ.
 
 
