@@ -12,11 +12,12 @@ It is based on a repository of empty test cases and empty function definitions c
 
 ### Install the project dependencies
 
-Use the command `npm install` to install the necessary libraries required for Node.js to run.
+Use the command `npm install` to download the project's dependencies and create a node_modules folder. 
 
-### Run the test code 
+### Run the tests
 
-Run the test for each function following this format: `npm test -- functionName`.
+To run the Jest tests for each function, use a command following this format:
+`npm test -- functionName`.
 
 Authors: Camilla Priest-Stephens and CommandShiftHQ.
 
