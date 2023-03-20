@@ -2,7 +2,7 @@
 
 This repository contains a series of katas I completed as part of Command Shift bootcamp. I used Jest to write tests for a set of functions and then used JavaScript to write the corresponding solutions.
 
-It is based on a repository of empty test cases and empty function definitions cloned from: https://github.com/CommandShiftHQ/diy-kata-3
+It is based on a repository of empty unit tests and empty function definitions cloned from: https://github.com/CommandShiftHQ/diy-kata-3
 
 ## Getting started
 
@@ -19,6 +19,8 @@ Use the command `npm install` to download the project's dependencies and create 
 To run the Jest tests for each function, use a command following this format:
 `npm run test -- functionName`.
 
-Authors: Camilla Priest-Stephens and CommandShiftHQ.
+Authors: Camilla Priest-Stephens with guiidance from CommandShiftHQ.
+
+This project was refactored following a code review by Command Shift tutor Szabina Kovacs.
 
 
