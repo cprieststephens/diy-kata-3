@@ -19,8 +19,6 @@ Use the command `npm install` to download the project's dependencies and create 
 To run the Jest tests for each function, use a command following this format:
 `npm run test -- functionName`.
 
-Authors: Camilla Priest-Stephens with guidance from Command Shift.
 
-This project was refactored following a code review by Command Shift tutor Szabina Kovacs.
 
 
